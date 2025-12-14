@@ -52,29 +52,29 @@ Make sure you have the following installed:
 - **Java JDK 17+**
 - **Maven** (optional if using the provided wrapper)
 
-### Clone the Repository
+🎥 Demo
 
-```bash
-git clone https://github.com/deividas-strole/FunChat.git
-cd FunChat
+A demo video for an earlier version of the app is available here:
+👉 https://www.youtube.com/watch?v=swGj1UxExZA
 
-Build and Run
+🎯 Why This Project
 
-If using Maven wrapper:
+This project is part of the portfolio of Deividas Strole and demonstrates:
 
-./mvnw clean install
-./mvnw spring-boot:run
+- How to build a web application from backend to frontend
+- Combining Java and Spring Boot with Thymeleaf templates
+- Using JavaScript to enhance user experience
+- Structuring a real-time style interaction in a simple chat app
 
+  ## 📫 Connect
 
-Or with Maven installed:
+- [Deividas Strole](https://deividasstrole.com)  
+- [LinkedIn](https://linkedin.com/in/deividas-strole)  
+- [YouTube](https://youtube.com/@deividas-strole)  
+- [Dev.to](https://dev.to/deividas-strole)  
+- [Medium](https://medium.com/@deividas-strole)  
+- [X](https://x.com/deividasstrole)  
 
-mvn clean install
-mvn spring-boot:run
+⭐ If you enjoyed this project, consider starring the repository to support the work of **Deividas Strole**.
 
-
-Once running, open a browser and visit:
-
-http://localhost:8080
-
-
-  
+© Deividas Strole. All rights reserved.
