@@ -58,4 +58,23 @@ Make sure you have the following installed:
 git clone https://github.com/deividas-strole/FunChat.git
 cd FunChat
 
+Build and Run
+
+If using Maven wrapper:
+
+./mvnw clean install
+./mvnw spring-boot:run
+
+
+Or with Maven installed:
+
+mvn clean install
+mvn spring-boot:run
+
+
+Once running, open a browser and visit:
+
+http://localhost:8080
+
+
   
