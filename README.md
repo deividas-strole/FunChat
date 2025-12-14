@@ -1,4 +1,4 @@
-# FunChat — Real-Time Chat Application by Deividas Strole
+# FunChat — Chat Application by Deividas Strole
 
 **FunChat** is a real-time chat application built with **Java**, **Spring Boot**, **Thymeleaf**, **JavaScript**, **HTML**, and **CSS**, designed to demonstrate full-stack development skills and web application architecture. This project was developed by **Deividas Strole** as part of his portfolio showcasing backend APIs, front-end integration, and real-time UI rendering.
 
@@ -66,7 +66,7 @@ This project is part of the portfolio of Deividas Strole and demonstrates:
 - Using JavaScript to enhance user experience
 - Structuring a real-time style interaction in a simple chat app
 
-  ## 📫 Connect
+## 📫 Connect
 
 - [Deividas Strole](https://deividasstrole.com)  
 - [LinkedIn](https://linkedin.com/in/deividas-strole)  
